@@ -26,7 +26,7 @@ Schematics for the project are provided.
 
 Folders:
 * `/firmware` - `TX` and `RX` `AVR` firmware.
-* `/schematics` - circuit schematics for `IR` `TX` and `RX`.
+* `/schematics` - circuit schematics for `IR`, `TX` and `RX`.
 * `/spec` - `IDP` protocol specification.
 
 # Signature
